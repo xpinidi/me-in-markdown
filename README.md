@@ -13,5 +13,5 @@ I have lots of favorite movies that include Better Days which is a Cdrama and 10
 [This is my spotify playlist!](https://open.spotify.com/playlist/2joXHRJ5qLFLQ6HAK3RlFa)
 
 ## Collage / Moodboard
-![This is an image of my collage](<img width="1545" height="2000" alt="My Moodboard" src="https://github.com/user-attachments/assets/63d500c1-8035-4287-b71f-db8b8b37f3b5" />
-)
+![This is an image of my collage]
+
